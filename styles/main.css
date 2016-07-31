@@ -218,7 +218,7 @@ select {
 
 .title::after {
   content: "";
-  width: 72%;
+  width: 75%;
   left: 12%;
   height: 100%;
   position: absolute;
@@ -228,7 +228,7 @@ select {
 
 .title__inner {
   width: 60%;
-  left: 26%;
+  left: 27%;
   text-align: justify;
   font-size: 2.3vw;
   font-family: "GothamProBold";
@@ -411,7 +411,7 @@ select {
 .control-left {
   background-image: url(../svg/prev.svg);
   background-repeat: no-repeat;
-  left: -20px;
+  left: -15px;
 }
 
 .wrapper .footer {
