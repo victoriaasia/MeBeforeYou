@@ -121,4 +121,3 @@ document.addEventListener('DOMContentLoaded', function() {
     photosSliderContent.style.marginLeft = photoPosition;
   }
 });
-//# sourceMappingURL=main.js.map

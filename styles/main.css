@@ -320,10 +320,6 @@ select {
   width: 640px;
 }
 
-/*.text-block {
-  max-height: 30vh;
-  overflow-y: auto;
-}*/
 .content__inner span {
   float: left;
   font-size: 4vw;
@@ -332,7 +328,6 @@ select {
 }
 
 .content__inner h2 {
-/*display: inline-block;*/
   font-size: 1.3vw;
   color: #cc202d;
   font-family: "GothamProBold";
