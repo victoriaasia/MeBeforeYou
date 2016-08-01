@@ -303,19 +303,19 @@ select {
   overflow: hidden;
 }
 
-.text-slider-list {
+.text-slider__list {
   width: 9999px;
 }
 
-.photos-slider-list {
+.photos-slider__list {
   width: 9999px;
 }
 
-.text-slider-item {
+.text-slider__item {
   display: table-cell;
 }
 
-.photos-slider-item {
+.photos-slider__item {
   display: table-cell;
   width: 640px;
 }

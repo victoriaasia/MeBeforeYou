@@ -5,11 +5,11 @@ document.addEventListener('DOMContentLoaded', function() {
   var textWidth = document.querySelector('.text-slider').offsetWidth + 2;
   var photoWidth = document.querySelector('.photos-slider').offsetWidth + 2;
 
-  var textItems = [].slice.call(document.querySelectorAll('.text-slider-item'));
-  var photoItems = [].slice.call(document.querySelectorAll('.photos-slider-item'));
+  var textItems = [].slice.call(document.querySelectorAll('.text-slider__item'));
+  var photoItems = [].slice.call(document.querySelectorAll('.photos-slider__item'));
 
-  var textSliderContent = document.querySelector('.text-slider-list');
-  var photosSliderContent = document.querySelector('.photos-slider-list');
+  var textSliderContent = document.querySelector('.text-slider__list');
+  var photosSliderContent = document.querySelector('.photos-slider__list');
 
   var textSliderWidth = -(5 * textWidth - textWidth);
   var photosSliderWidth = -(5 * photoWidth - photoWidth);
